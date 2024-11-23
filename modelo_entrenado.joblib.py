@@ -11,8 +11,6 @@ Los titulos de los graficos no serán visibles.
 Paquetes necesarios.
 """
 
-!pip install ydata-profiling
-
 from ydata_profiling import ProfileReport
 
 pip install squarify
